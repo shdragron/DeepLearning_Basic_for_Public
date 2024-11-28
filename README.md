@@ -11,9 +11,6 @@ The **NVIDIA AI Academy** provided 960 hours of hands-on training, covering:
 - Core AI concepts such as Deep Learning, Computer Vision, Natural Language Processing (NLP), and Reinforcement Learning.
 - Practical experience with NVIDIA GPU Cloud servers and Jetson boards.
 - Expert-led instruction from NVIDIA’s Deep Learning Institute (DLI).
-
-Through this program, I built the foundational skills presented in this repository and gained practical knowledge to apply AI techniques effectively. Upon completion, I am expected to earn the **NVIDIA DLI Global Competence Certification**.
-
 ---
 
 ## Repository Structure
